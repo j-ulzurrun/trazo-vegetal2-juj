@@ -1,8 +1,8 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300ital;ic,400italic,400,300,700,800);
 
 body{
-	background-image:url('file:///D:/Encargos/Cuarto/Sitios/trazo-vegetal-juj/img/fondo.png');
-	margin: 0;
+	background-image:url('file:///D:/Encargos/Cuarto/Sitios/trazo-vegetal2-juj/img/fondo.png');
+	margin: 0;S
 }
 
 header, section, div, footer{
@@ -128,23 +128,22 @@ footer{
 }
 
 #intro{
-	background:url('file:///D:/Encargos/Cuarto/Sitios/trazo-vegetal-juj/img/total 1.png') no-repeat fixed center bottom / cover rgba(0, 0, 0, 0); 
+	background:url('file:///D:/Encargos/Cuarto/Sitios/trazo-vegetal2-juj/img/total1.png') no-repeat fixed center bottom / cover rgba(0, 0, 0, 0); 
 }
 
 #uno{
-	background:url('file:///D:/Encargos/Cuarto/Sitios/trazo-vegetal-juj/img/total 2.png') no-repeat fixed center bottom / cover rgba(0, 0, 0, 0); 
+	background:url('file:///D:/Encargos/Cuarto/Sitios/trazo-vegetal2-juj/img/total2.png') no-repeat fixed center bottom / cover rgba(0, 0, 0, 0); 
 }
 
 #dos{
-	background:url('file:///D:/Encargos/Cuarto/Sitios/trazo-vegetal-juj/img/total 3.png') no-repeat fixed center bottom / cover rgba(0, 0, 0, 0); 
+	background:url('file:///D:/Encargos/Cuarto/Sitios/trazo-vegetal2-juj/img/total3.png') no-repeat fixed center bottom / cover rgba(0, 0, 0, 0); 
 }
 
 #tres{
-	background:url('file:///D:/Encargos/Cuarto/Sitios/trazo-vegetal-juj/img/total 4.png') no-repeat fixed center bottom / cover rgba(0, 0, 0, 0); 
+	background:url('file:///D:/Encargos/Cuarto/Sitios/trazo-vegetal2-juj/img/total4.png') no-repeat fixed center bottom / cover rgba(0, 0, 0, 0); 
 }
 
 #cuatro{
-	background:url('file:///D:/Encargos/Cuarto/Sitios/trazo-vegetal-juj/img/total 5.png') no-repeat fixed center bottom / cover rgba(0, 0, 0, 0); 
+	background:url('file:///D:/Encargos/Cuarto/Sitios/trazo-vegetal2-juj/img/total5.png') no-repeat fixed center bottom / cover rgba(0, 0, 0, 0); 
 }
 
-	
