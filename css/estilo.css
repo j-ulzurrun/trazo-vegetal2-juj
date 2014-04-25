@@ -1,8 +1,8 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300ital;ic,400italic,400,300,700,800);
 
 body{
-	background-image:url('file:///D:/Encargos/Cuarto/Sitios/trazo-vegetal2-juj/img/fondo.png');
-	margin: 0;S
+	background-image:url('/img/fondo.png');
+	margin: 0;
 }
 
 header, section, div, footer{
