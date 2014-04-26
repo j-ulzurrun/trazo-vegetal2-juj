@@ -7,6 +7,7 @@ body{
 
 header, section, div, footer{
 	display: block;
+	font: inherit;
 }
 
 h1, h2, h3, p, a, header, nav, ul, li{
@@ -37,7 +38,7 @@ header{
 }
 
 h1{
-	color:rgba(60, 100, 65, 0.2);
+	color:rgba(255, 255, 255, 0.2);
 	font-weight: 800;
 	font-size: 5em;
 	text-align: center;
@@ -81,11 +82,12 @@ h1{
 }
 
 .cajachica{
-	width: 60%;
-	height: 400px;
+	width: 70%;
+	height: 100%;
 	margin-right: auto;
 	margin-left: auto;
-	background: rgba(255,255,255,0.9);
+	background: rgba(0,0,0,0.9);
+	display: block;
 }
 
 .cajaderecha{
@@ -130,22 +132,26 @@ footer{
 }
 
 #intro{
+	background-color: black;
+	margin: 0 0 0 0;
+}
+#uno{
 	background:url('img/total1.png') no-repeat fixed center bottom / cover rgba(0, 0, 0, 0); 
 }
 
-#uno{
+#dos{
 	background:url('img/total2.png') no-repeat fixed center bottom / cover rgba(0, 0, 0, 0); 
 }
 
-#dos{
+#tres{
 	background:url('img/total3.png') no-repeat fixed center bottom / cover rgba(0, 0, 0, 0); 
 }
 
-#tres{
+#cuatro{
 	background:url('img/total4.png') no-repeat fixed center bottom / cover rgba(0, 0, 0, 0); 
 }
 
-#cuatro{
+#cinco{
 	background:url('img/total5.png') no-repeat fixed center bottom / cover rgba(0, 0, 0, 0); 
 }
 
